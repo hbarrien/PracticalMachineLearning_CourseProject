@@ -1,4 +1,4 @@
-# Practical MachineLearning Course Project
+# Practical Machine Learning Course Project
 Johns Hopkins University / Coursera Data Science Certification - Practical Machine Learning Course - Final Project
 
 ##Instructions
